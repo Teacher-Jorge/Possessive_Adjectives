@@ -23,7 +23,6 @@ word1_1.innerText = "He"
 word1_2.innerText = "His"
 word1_1.style.color = "darkorange"
 word1_2.style.color = "darkorange"
-swipe1.style.visibility = "visible"
 btn1Correct.disabled = "true"
 })
 
